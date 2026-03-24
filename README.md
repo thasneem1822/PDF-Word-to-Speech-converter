@@ -1,5 +1,7 @@
-# Audio_converter
-Multi-format Text-to-Speech Converter using Python
+# Audio_converter (PDF & Word to Speech)
+
+# Description
+Converts PDFs and Word documents-to-Speech  using Python
 
 # Multi-format Text-to-Speech Converter
 
@@ -17,6 +19,13 @@ This project converts PDF and Word files into speech.
 - Converts text into speech
 - Saves output as audio file
 - Simple GUI using Tkinter
+
+#  How to run:
+  1. Install depedencies:
+       pip install -r requirements.txt
+
+  2.  Run the program:
+       python main.py
 
 # Future Improvements 
 - OCR for scanned PDFs
